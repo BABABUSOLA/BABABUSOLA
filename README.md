@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🔭 I’m currently working on...
-- Building scalable cloud infrastructure and enterprise applications at Radically Digital.
+- Building scalable enterprise applications at Radically Digital.
 - Developing new features and optimizing codebases for various web applications.
 - Mentoring junior developers to help them grow in their software engineering careers.
 
