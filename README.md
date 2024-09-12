@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 📍 Nigeria  
 📞 +234 8066109631  
 ✉️ [queenbusola1@gmail.com](mailto:queenbusola1@gmail.com)  
-🔗 [LinkedIn](#) | [GitHub](#) | [Website](https://oluwabusola.web.app/)
+🔗 [LinkedIn](https://www.linkedin.com/in/adeleke-oluwabusola/) | [GitHub](https://github.com/BABABUSOLA) | [Website](https://oluwabusola.web.app/)
 
 ---
 
@@ -58,8 +58,8 @@ A Full-Stack Engineering Leader with 8 years of experience leading cross-functio
 
 ## 📫 How to reach me...
 - Email: [queenbusola1@gmail.com](mailto:queenbusola1@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [Your GitHub Profile](#)
+- LinkedIn: [Oluwabusola Adeleke](https://www.linkedin.com/in/adeleke-oluwabusola/)
+- GitHub: [BABABUSOLA](https://github.com/BABABUSOLA)
 - Website: [https://oluwabusola.web.app/](https://oluwabusola.web.app/)
 
 ## 😄 Pronouns...
