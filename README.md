@@ -15,19 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Oluwabusola Adeleke
+# I am Oluwabusola Adeleke
 
 **Full-Stack Engineering Leader | Certified Associate Cloud Architect**  
 📍 Nigeria  
-📞 +234 8066109631  
+<!-- 📞 +234 8066109631 -->
 ✉️ [queenbusola1@gmail.com](mailto:queenbusola1@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/adeleke-oluwabusola/) | [GitHub](https://github.com/BABABUSOLA) | [Website](https://oluwabusola.web.app/)
-
----
-
-## 👩‍💻 Profile Summary
-
-A Full-Stack Engineering Leader with 8 years of experience leading cross-functional teams across finance, e-commerce, logistics, digital marketing, and healthcare sectors. I have delivered enterprise-grade web applications for clients in Nigeria, Kenya, Sierra Leone, and the UK. My expertise includes **React**, **Node.js**, **Python Flask**, and **cloud platforms**, with a proven ability to analyze customer needs, build high-quality software, and empower businesses. I am also an active community advocate and passionate about tech education.
 
 ---
 
@@ -71,4 +65,4 @@ A Full-Stack Engineering Leader with 8 years of experience leading cross-functio
 
 ---
 
-Thank you for visiting my profile! I'm always excited to collaborate on innovative projects and contribute to the tech community. Feel free to connect with me via [LinkedIn](#), visit my [website](https://oluwabusola.web.app/), or reach out directly at [queenbusola1@gmail.com](mailto:queenbusola1@gmail.com).
+Thank you for visiting my profile! I'm always excited to collaborate on innovative projects and contribute to the tech community. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/adeleke-oluwabusola/), visit my [website](https://oluwabusola.web.app/), or reach out directly at [queenbusola1@gmail.com](mailto:queenbusola1@gmail.com).
