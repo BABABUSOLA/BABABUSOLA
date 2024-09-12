@@ -32,14 +32,14 @@ A Full-Stack Engineering Leader with 8 years of experience leading cross-functio
 ---
 
 ## 🔭 I’m currently working on...
-- Building scalable cloud infrastructure and enterprise applications at Prunedge Technologies.
+- Building scalable cloud infrastructure and enterprise applications at Radically Digital.
 - Developing new features and optimizing codebases for various web applications.
 - Mentoring junior developers to help them grow in their software engineering careers.
 
 ## 🌱 I’m currently learning...
+- Exploring new JavaScript frameworks and tools.
 - Advanced cloud architecture and security strategies.
 - Improving my knowledge in AI/ML technologies and their applications.
-- Exploring new JavaScript frameworks and tools.
 
 ## 👯 I’m looking to collaborate on...
 - Open-source projects that have a positive social impact.
@@ -68,54 +68,6 @@ A Full-Stack Engineering Leader with 8 years of experience leading cross-functio
 ## ⚡ Fun fact...
 - I'm passionate about mentoring and have provided career guidance to over 20 individuals transitioning into software engineering.
 - I enjoy traveling and exploring new cultures, which inspires me to create inclusive software solutions.
-
----
-
-## 🚀 Key Skills
-
-- **Frontend Development**: React.js, JavaScript, TypeScript, Microfrontend Architecture  
-- **Backend Development**: Node.js, Python Flask, REST APIs  
-- **Cloud & DevOps**: Google Cloud Platform, Cloud Application Development, Docker, Cloud Security  
-- **Software Quality**: Unit Testing (Jest), SonarQube  
-- **Project Management**: Agile Scrum Methodology, Cross-functional Team Leadership, Software Lifecycle Management  
-- **Additional Expertise**: Cybersecurity, Remote Collaboration, Strategy Development  
-
----
-
-## 🎯 Achievements
-
-- **Sterling Bank**: Led development of core banking features with a focus on microfrontend architecture and code quality.
-- **Kwik Store**: Created an online storefront integrated with social media, empowering thousands of businesses.
-- **Pillar UK**: Developed the first iteration of a decision engine using data lakes for credit score insights.
-- **HMO Corporate Management Platform**: Built a comprehensive platform for a leading insurance company.
-- **LMS Platform**: Crafted a Learning Management System utilized by over 1 million users across Africa.
-- **HR Management System for Keystone Bank**: Led the development of a robust HR management system.
-- **Automated Budget Management System**: Developed for a state government in Nigeria, optimizing budget management.
-- **Sierra Leone Transport Management System**: Led frontend development for fare collection and transport management.
-- **Fidelity Bank**: Contributed to digital transformation, improving internal processes by 50%.
-
----
-
-## 🎓 Qualifications
-
-- **B.Tech in Physics Electronics** - Federal University of Technology, Akure, April 2014  
-- **Certified Associate Cloud Architect** - Google  
-- **Software Engineering** - School of Computational Intelligence, 2016  
-
----
-
-## 🌍 Volunteering & Personal Projects
-
-- **NYSC Nigeria**: Served as a Lead Instructor for Physics students in Minna, Niger State.
-- **Techsters Open Day**: Mentored attendees and spoke at the August Edition 2022.
-- **Career Guidance**: Provided free career guidance to individuals transitioning to software engineering.
-
----
-
-## 🌱 Hobbies and Interests
-
-- Traveling  
-- Mentoring and Coaching  
 
 ---
 
