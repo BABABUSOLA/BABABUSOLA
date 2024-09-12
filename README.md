@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 - Career transitions into software engineering.
 - Building and leading cross-functional teams.
 
-## 📫 How to reach me...
+<!-- ## 📫 How to reach me...
 - Email: [queenbusola1@gmail.com](mailto:queenbusola1@gmail.com)
 - LinkedIn: [Oluwabusola Adeleke](https://www.linkedin.com/in/adeleke-oluwabusola/)
 - GitHub: [BABABUSOLA](https://github.com/BABABUSOLA)
-- Website: [https://oluwabusola.web.app/](https://oluwabusola.web.app/)
+- Website: [https://oluwabusola.web.app/](https://oluwabusola.web.app/) -->
 
 ## 😄 Pronouns...
 - She/Her
@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 - I'm passionate about mentoring and have provided career guidance to over 20 individuals transitioning into software engineering.
 - I enjoy traveling and exploring new cultures, which inspires me to create inclusive software solutions.
 
----
+<!---
 
-Thank you for visiting my profile! I'm always excited to collaborate on innovative projects and contribute to the tech community. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/adeleke-oluwabusola/), visit my [website](https://oluwabusola.web.app/), or reach out directly at [queenbusola1@gmail.com](mailto:queenbusola1@gmail.com).
+Thank you for visiting my profile! I'm always excited to collaborate on innovative projects and contribute to the tech community. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/adeleke-oluwabusola/), visit my [website](https://oluwabusola.web.app/), or reach out directly at [queenbusola1@gmail.com](mailto:queenbusola1@gmail.com). -->
