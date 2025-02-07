@@ -56,9 +56,6 @@ Here are some ideas to get you started:
 - GitHub: [BABABUSOLA](https://github.com/BABABUSOLA)
 - Website: [https://oluwabusola.web.app/](https://oluwabusola.web.app/) -->
 
-## 😄 Pronouns...
-- She/Her
-
 ## ⚡ Fun fact...
 - I'm passionate about mentoring and have provided career guidance to over 20 individuals transitioning into software engineering.
 - I enjoy traveling and exploring new cultures, which inspires me to create inclusive software solutions.
